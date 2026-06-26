@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\kx\OneDrive\桌面\Fly_Ruler\飞行之尺_Project\飞行之尺.PcbDoc
+Date         : 2025/6/9
+Time         : 10:57:55
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 8267.717milsx1181.103mils
+    Components on board, 61
+count : 2
